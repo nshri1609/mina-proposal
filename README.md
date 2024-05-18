@@ -13,7 +13,7 @@ This section provides a high level overview and summary of the proposed project.
 
 ## Architecture & Design
 This section provides the technical details about the project’s architecture and design. This section will be reviewed to ensure the technical feasibility of the project.
-![Architecture Diagram](https://drive.google.com/file/d/1AvT1xZuWkGDlhsxBXRw58gurVy-vod8l/view?usp=sharing)
+[Architecture Diagram](https://drive.google.com/file/d/1AvT1xZuWkGDlhsxBXRw58gurVy-vod8l/view?usp=sharing)
 - **Detailed Design/Architecture:**
   - **Frontend (NextJS):** Integrates AuroWallet for user authentication, allows players to create custom poker tables, and facilitates gameplay interaction with smart contracts.
   - **Backend (NodeJS):** Manages communication between the frontend and the MINA blockchain, handles session management, and ensures smooth gameplay.
