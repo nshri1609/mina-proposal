@@ -55,7 +55,7 @@ This section provides details about the team.
   - **Saurabh Shetty** Frontend Developer specializing in user interfaces and blockchain integration. [GitHub](https://github.com/bobsmith)
   - **xyzzz:** Lead Developer with expertise in blockchain development and smart contracts. [GitHub](https://github.com/alicejohnson)
   - **Ayush:** Backend Developer with experience in NodeJS and session management. [GitHub](https://github.com/carolwhite)
-  - **Nikhil Shrivas:** 4+ years of proven Community Marketing and Management Experience  [GitHub](https://github.com/nshri1609) 
+  - **Nikhil Shrivas:** 4+ years of proven Community Marketing and Management Experience  [GitHub](https://github.com/nshri1609) [twitter](https://x.com/nikhilshrivass) 
 - **Achievements:** The team has successfully launched [](https://github.com/project3), which has been well-received in the blockchain community.
 
 ## Risks & Mitigations
