@@ -13,6 +13,7 @@ This section provides a high level overview and summary of the proposed project.
 
 ## Architecture & Design
 This section provides the technical details about the project’s architecture and design. This section will be reviewed to ensure the technical feasibility of the project.
+<img width="1322" alt="Screenshot 2024-05-18 at 11 06 20 AM" src="https://github.com/nshri1609/mina-proposal/assets/87777902/4b5cfd9c-4803-4ad7-982d-4bd253783587">
 [Architecture Diagram](https://drive.google.com/file/d/1AvT1xZuWkGDlhsxBXRw58gurVy-vod8l/view?usp=sharing)
 - **Detailed Design/Architecture:**
   - **Frontend (NextJS):** Integrates AuroWallet for user authentication, allows players to create custom poker tables, and facilitates gameplay interaction with smart contracts.
